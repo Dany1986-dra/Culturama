@@ -31,6 +31,9 @@ El objetivo del repositorio es practicar maquetación con HTML y CSS, trabajar l
 
 ![Agenda (ejemplo)](assets/img/agenda-1.png)
 
+## Diseño
+Puedes ver el diseño en Figma: [Practicando CSS - Grid y Flexbox (Figma)](https://www.figma.com/design/DDapk3Dl8AUODTIAVMfl3I/Practicando-CSS--Grid-y-Flexbox--Copy-?node-id=79-289&p=f&t=1f3h42U8yP5VXwnJ-0).
+
 ## Tecnologías
 
 Esta maqueta está construida con tecnologías web puras. Los "botones" de tecnologías abajo usan shields (imagenes) para verse como badges visuales.
@@ -128,4 +131,5 @@ git push origin main
 Desarrollado por Daniel Rivera Alpízar.
 
 ¿Quieres que aplique las clases de botón y tarjeta directamente en el HTML ahora? También puedo agregar capturas al README y badges adicionales (por ejemplo: demo en GH Pages).
+
 
