@@ -130,6 +130,6 @@ git push origin main
 
 Desarrollado por Daniel Rivera Alpízar.
 
-¿Quieres que aplique las clases de botón y tarjeta directamente en el HTML ahora? También puedo agregar capturas al README y badges adicionales (por ejemplo: demo en GH Pages).
+
 
 
