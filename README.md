@@ -36,7 +36,7 @@ Puedes ver el diseño en Figma: [Practicando CSS - Grid y Flexbox (Figma)](https
 
 ## Tecnologías
 
-Esta maqueta está construida con tecnologías web puras. Los "botones" de tecnologías abajo usan shields (imagenes) para verse como badges visuales.
+Esta maqueta está construida con las siguientes tecnologías:
 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=for-the-badge&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=for-the-badge&logo=css3) ![CSS Grid](https://img.shields.io/badge/-CSS%20Grid-%237F8FFE?style=for-the-badge) ![Flexbox](https://img.shields.io/badge/-Flexbox-%2356B78C?style=for-the-badge) ![Google Fonts](https://img.shields.io/badge/-Google%20Fonts-4285F4?style=for-the-badge&logo=google) ![Meyer Reset](https://img.shields.io/badge/-Meyer%20Reset-%23D9D9D9?style=for-the-badge)
 
@@ -129,6 +129,7 @@ git push origin main
 ## Contacto
 
 Desarrollado por Daniel Rivera Alpízar.
+
 
 
 
