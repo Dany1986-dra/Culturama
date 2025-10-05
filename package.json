@@ -1,0 +1,11 @@
+{
+  "name": "culturama",
+  "version": "1.0.0",
+  "description": "Maqueta estática de eventos culturales",
+  "scripts": {
+    "serve": "npx live-server --port=8000",
+    "start": "npx live-server --port=8000"
+  },
+  "author": "Daniel Rivera Alpízar",
+  "license": "MIT"
+}
