@@ -5,7 +5,7 @@ Sitio estático moderno para descubrir eventos culturales — maqueta para pract
 ---
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-blue?style=for-the-badge)](https://<TU_USUARIO>.github.io/<TU_REPO>/)
+[![Demo](https://img.shields.io/badge/Demo-GitHub%20Pages-blue?style=for-the-badge)](https://dany1986-dra.github.io/Culturama/)
 
 <!-- Badges de tecnologías -->
 
@@ -128,3 +128,4 @@ git push origin main
 Desarrollado por Daniel Rivera Alpízar.
 
 ¿Quieres que aplique las clases de botón y tarjeta directamente en el HTML ahora? También puedo agregar capturas al README y badges adicionales (por ejemplo: demo en GH Pages).
+
